@@ -1,6 +1,6 @@
 name: adapt
 favicon: null
-layout_spectrum: 0.14274766179732978
+layout_spectrum: 0.39951
 typography_spectrum: 0.18890406913124025
 title: A/B TESTING RECRUITMENT
 cta:
@@ -16,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.39118523988872766
+  brandColors:
+    - '#e30613'
+    - '#878786'
+    - '#000000'
+    - '#ff0000'
+    - '#aa0000'
+  brandStrength: 0.75
   lightness: 0.2430587806738913
   saturation: 0.44866049312986434
   rhythmicContrast: 0.37844282924197614
