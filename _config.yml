@@ -1,0 +1,23 @@
+name: adapt
+favicon: null
+layout_spectrum: 0.14274766179732978
+typography_spectrum: 0.18890406913124025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.39118523988872766
+  lightness: 0.2430587806738913
+  saturation: 0.44866049312986434
+  rhythmicContrast: 0.37844282924197614
+purpose: []
